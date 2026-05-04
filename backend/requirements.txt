@@ -1,0 +1,7 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+yt-dlp>=2024.10.7
+deep-translator==1.11.4
+openai>=1.55.3,<2.0.0
+python-dotenv==1.0.1
+pydantic==2.9.2
